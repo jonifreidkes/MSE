@@ -9,3 +9,5 @@ Main topics you can find:
 - Acoustic Measurements
 - Digital Signal Processing
 - Data acquisition methods
+- Recording and editing
+- Problem solving
