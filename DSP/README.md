@@ -1,6 +1,6 @@
 # Digital Signal Processing
 ## Welcome!
-In this repository you can find the coursework projects in 2016. Main topics you can find:
+In this repository you can find a coursework project made in 2016, written in spanish. Main topics you can find:
 
 - Digital Signal Processing
 - MatLab programming
