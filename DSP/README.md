@@ -1,4 +1,4 @@
-# Acoustic Instruments and Measurements
+# Digital Signal Processing
 ## Welcome!
 In this repository you can find the coursework projects in 2016. Main topics you can find:
 
