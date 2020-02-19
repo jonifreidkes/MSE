@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-In this repository you can find the coursework projects in 2017.
+In this repository you can find the coursework projects from 2017.
 Main topics you can find:
 
 - Audio Engineering
