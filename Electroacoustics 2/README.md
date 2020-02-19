@@ -1,4 +1,4 @@
-# Electroacoustics 1
+# Electroacoustics 2
 ## Welcome!
 
 In this repository you can find the coursework projects from 2017 in spanish. Main topics you can find:
