@@ -6,9 +6,9 @@ In this repository you can find some of my coursework investigations.
 Main topics you can find:
 
 - Audio Engineering
-- Acoustic Instruments and Measurements (AIM)
-- Electronic Instruments and Measurements (EIM)
-- Digital Signal Processing
+- Acoustic Instruments and Measurements (__AIM__)
+- Electronic Instruments and Measurements (__EIM__)
+- Digital Signal Processing (__DSP__)
 - Electroacoustics
 - Electronic Circuits
 - Data acquisition methods
